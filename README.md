@@ -28,6 +28,10 @@ My detailed **CV** can be found here
  - https://www.cienciavitae.pt//pt/3312-D2F4-EF2F
  - https://cemat.tecnico.ulisboa.pt/member.php?project_id=4&member_id=216
 
+### LinkedIn Profile:
+- https://www.linkedin.com/in/nuno-lopes-789b38a/
+
+
 <!---
 ndlopes-github/ndlopes-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
